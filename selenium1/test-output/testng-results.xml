@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-10T16:54:27 IST" name="Default suite" finished-at="2024-11-10T16:55:13 IST" duration-ms="45323">
+    <groups>
+    </groups>
+    <test started-at="2024-11-10T16:54:27 IST" name="Default test" finished-at="2024-11-10T16:55:13 IST" duration-ms="45323">
+      <class name="Automationproject.OrangeHRM">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Automationproject.OrangeHRM@3e27ba32]" started-at="2024-11-10T16:54:27 IST" name="setup" finished-at="2024-11-10T16:54:48 IST" duration-ms="20735" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="login()[pri:1, instance:Automationproject.OrangeHRM@3e27ba32]" started-at="2024-11-10T16:54:48 IST" name="login" finished-at="2024-11-10T16:54:52 IST" duration-ms="3526" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="personaldetails()[pri:2, instance:Automationproject.OrangeHRM@3e27ba32]" started-at="2024-11-10T16:54:52 IST" name="personaldetails" finished-at="2024-11-10T16:55:01 IST" duration-ms="9635" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- personaldetails -->
+        <test-method signature="customfield()[pri:3, instance:Automationproject.OrangeHRM@3e27ba32]" started-at="2024-11-10T16:55:01 IST" name="customfield" finished-at="2024-11-10T16:55:04 IST" duration-ms="2592" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- customfield -->
+        <test-method signature="addattachment()[pri:4, instance:Automationproject.OrangeHRM@3e27ba32]" started-at="2024-11-10T16:55:04 IST" name="addattachment" finished-at="2024-11-10T16:55:11 IST" duration-ms="6841" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addattachment -->
+        <test-method signature="logput()[pri:5, instance:Automationproject.OrangeHRM@3e27ba32]" started-at="2024-11-10T16:55:11 IST" name="logput" finished-at="2024-11-10T16:55:12 IST" duration-ms="1559" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logput -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Automationproject.OrangeHRM@3e27ba32]" started-at="2024-11-10T16:55:12 IST" name="quit" finished-at="2024-11-10T16:55:13 IST" duration-ms="352" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- Automationproject.OrangeHRM -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
